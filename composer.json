@@ -1,0 +1,23 @@
+{
+    "name": "landofcoder/module-improved-sorting",
+    "description": "Magento Improved Sorting",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Landofcoder",
+            "email": "landofcoder@gmail.com",
+            "homepage": "https://landofcoder.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "version": "1.0.0",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Lof\\ImprovedSorting\\": ""
+        },
+        "files": [
+            "registration.php"
+        ]
+    }
+}
